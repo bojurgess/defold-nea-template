@@ -1,0 +1,12 @@
+/assets/atlas/.gitkeep
+/assets/audio/.gitkeep
+/assets/fonts/.gitkeep
+/assets/sprites/.gitkeep
+/assets/tilemaps/.gitkeep
+/data/.gitkeep
+/events/.gitkeep
+/gui/.gitkeep
+/levels/.gitkeep
+/objects/shared/.gitkeep
+/scripts/behaviours/.gitkeep
+/scripts/modules/.gitkeep
